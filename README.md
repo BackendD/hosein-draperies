@@ -7,4 +7,8 @@
 ![پرده سرا](./assets/pardeh-sara.png)
 ![پرده سرا](./assets/magic.png)
 
+## شماتیک برد کنترل
+
+![schematic](./assets/schematic.png)
+
 </div>
